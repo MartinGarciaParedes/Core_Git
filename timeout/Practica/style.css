@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav  {
+    background-color:dodgerblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.nav h1 {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+ul {
+    display: flex;
+    justify-content: center;
+}
+button {
+    padding: 10px;
+}
+.botón {
+    cursor: pointer;
+    border: none;
+    color: aliceblue;
+    background-color: dodgerblue;
+}
+p {
+    display: flex;
+    justify-content: center;
+}
